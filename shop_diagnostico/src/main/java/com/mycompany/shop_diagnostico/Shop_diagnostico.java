@@ -22,7 +22,7 @@ public class Shop_diagnostico {
             productos[i] = producto;
         }
          for(int i = 0; i<productos.length; i++){
-             System.err.println(productos[i]);
+             System.out.println(productos[i]);
         }
     }
     
